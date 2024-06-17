@@ -9,12 +9,12 @@ O projeto se trata de um sistema bibliotecário que busca facilitar o processo d
 
 ### Relevância do Projeto
 
-Este sistema é relevante pois visa melhorar a gestão de bibliotecas, tanto acadêmicas quanto públicas, facilitando o controle de empréstimos, devoluções e gerenciamento de livros. O público-alvo são alunos, professores e funcionários de instituições de ensino e bibliotecas públicas, proporcionando maior organização e acesso aos recursos educacionais.
+Este visa melhorar a gestão de bibliotecas, facilitando o controle de empréstimos, devoluções e gerenciamento de livros. O público-alvo são alunos, professores e funcionários de instituições de ensino e bibliotecas públicas, proporcionando maior organização e acesso aos recursos educacionais.
 
 ### Tecnologias Utilizadas
 
 - Linguagem de Programação: Java
-- Ambiente de Desenvolvimento: NetBeans e Eclipse
+- Ambiente de Desenvolvimento: VsCode, NetBeans e Eclipse
 - Banco de Dados: MySQL
 - Conexão com Banco de Dados: JDBC
 - Interface Gráfica: Swing
