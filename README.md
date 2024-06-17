@@ -1,4 +1,4 @@
-# Projeto-Pr-tico-A3-PSC-_-Sistema-Biblioteca
+# Projeto-Pratico-A3-PSC-_-Sistema-Biblioteca [Leitura+]
 - Projeto Prático da UC : Programação e Soluções Computacionais. 
 - Professor: Fabrício Valadares.
 - Integrantes: Raissa, Tayná, Guilherme, Diego, Arthur.
